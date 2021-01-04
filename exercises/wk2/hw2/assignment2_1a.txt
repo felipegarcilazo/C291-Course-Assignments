@@ -1,0 +1,13 @@
+Felipe Garcilazo
+1/28/20
+
+Algorithm/PsuedoCode:
+1. Start by creating an infinite loop, as you don't know how many employees.
+2. Then ask for the paycode either W, H, C, P. If Q is entered exit the program
+3. Using a swith prompt the user for to enter the number of employees of each paycode (minimum of 2).
+4. If W then they have a fixed weekly salary. Must ask for the weekly salary. If international students then you can't work more than 20 hours.
+5. If H then have a wage for the first 10 hours. Over 10 hours must times their wage by 1.5. Must ask for the hours worked and wage.
+6. If C then they receive 250 + 7.1 * hours worked per person. Must ask for hours worked.
+7. If P then they receive fixed money * each item they produce. Ask for fixed amount and the items produced.
+8. Once finished with the program display the weekly salary paid to workers who are international students, domestic students, paid to the different paycodes, total salary for all workers.
+~                                                                                                                                                                                            
